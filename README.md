@@ -9,4 +9,4 @@ Com o intuito de incentivar a campanha do Novembro Azul, desenvolvi esse noteboo
 - Dimensão Fractal;
 - Outros.
 
-O objetivo era prever se existe câncer ou não.
+O objetivo era prever se existe câncer ou não e avaliar qual modelo se sairia melhor nessa classificação.
